@@ -1,0 +1,14 @@
+@import '../Styles/Styles.css';
+
+
+
+.cuerpo3{
+    display: flex;
+    height: 20em;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--color-nexxus-2);
+    color: var(--color-blanco);
+
+}
+

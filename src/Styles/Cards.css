@@ -1,0 +1,49 @@
+
+
+#log{
+    display: flex;
+    justify-content: center;
+}
+
+.alin-g {
+    
+    display: flex;
+    justify-content: space-around;
+    text-align: start;
+    
+    /* flex-direction: column; media */
+
+}
+.alin-g p{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.textos-j{
+    text-align: justify;
+/*     width: auto; media */
+
+}
+#Mis{
+height: 10rem;
+padding-top: 2rem;   
+}
+#img-Ab{
+    display: flex;
+    justify-content: center;
+}
+
+.Mision{
+    
+    display: flex;
+    flex-direction: column;
+    width: 20%
+
+}
+#TituloAb{
+    font-size: 30px;
+    padding-bottom: 2rem;
+    text-align: center;
+    color: rgb(116, 26, 161);
+    justify-content: center;
+}

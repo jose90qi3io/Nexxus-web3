@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{
+
+    /* Colores */
+    --color-negro: #000101;
+    --color-blanco:#FEFFFE;
+    --color-gris: #1B1B1B;
+    --color-nexxus:rgb(26, 188, 177);
+    --color-nexxus-2:rgb(67, 27, 79);
+    --color-nexxus-3:rgb(73, 30, 152);
+
+    /* tamaños Titulos */
+    --fontszise-Titulos-m: 1.2rem;
+    --fontszise-Titulos-g: 2rem;
+    --fontszise-Titulos-gx: 2.5rem;
+    
+    /* tamaños Textos */
+    --fontszise-Texto-g: 1.3rem;
+    --fontszise-Texto-g: 1.2rem;
+    --fontszise-Texto-ch: 1rem;
+    --fontszise-Texto-chx: .8rem;
+}

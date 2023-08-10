@@ -1,0 +1,92 @@
+@import '../Styles/Styles.css';
+
+.encabezado{
+    display: flex;
+    flex-direction: column;
+    padding-top: 4rem;
+    height: 31em;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.encabezadoPortada {
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+.encabezaPortadaTitulos{
+ 
+    width: 30%;
+}
+img{
+    height: 18rem;
+}
+.encabezadoPortada{
+    display: flex;
+}
+.encabezaPortadaTitulo p{
+    font-size: var(--fontszise-Titulos-g);
+    min-height: 50px;
+}
+.encabezaPortadaTitulo {
+    padding-bottom: 9%;
+}
+.encabezaPortadaSubtitulo{
+    font-size: var(--fontszise-Titulos-m);
+    text-align: justify;
+    padding-bottom: 1rem;
+}
+.encabezaPortadaPieIconos img{
+    height: 2rem;
+}
+.encabezaPortadaPieIconos{
+    display: flex;
+    align-items: center;
+    padding:.5rem;
+}
+.encabezaPortadaPieIconos p{
+    padding-left: .5rem;
+}
+
+/*  */
+
+.cuerpo{
+    display: flex;
+    height: 25rem;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--color-nexxus)
+}
+
+.cuerpoTexto{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.eslogan p{
+    color: var( --color-negro);
+font-size: var( --fontszise-Titulos-gx);
+
+}
+
+.esloganTexto p{
+    color: var( --color-negro);
+font-size: var(--fontszise-Texto-g);
+text-align: justify;
+}
+
+.esloganTexto{
+    width: 40%;
+}
+
+/*  */
+
+.cuerpo2{
+    display: flex;
+    height: 40em;
+    justify-content: space-around;
+    align-items: center;
+
+}

@@ -1,0 +1,53 @@
+@import '../Styles/Styles.css';
+
+.soporte{
+    padding-top: 9vh;
+    width: 100%;
+    }
+
+.soporte p{
+    padding-top: 3vh;
+    font-size: var(--fontszise-Titulos-g);
+    text-align: center ;
+}
+.soporte label {
+    display: block;
+    font-size: var(--fontszise-Texto-ch);
+    color: #777;
+    margin-bottom: .1rem;
+    margin-top:  1rem;
+}
+.soporte input {
+    display: block;
+    min-width: 250px;
+    line-height: 1.9;
+    font-size: var(--fontszise-Texto-chx);
+}
+.soporte textarea{
+    height: 3.6rem;
+}
+select{
+    
+}
+   
+button[type="submit"] {
+    margin-top:1rem ;
+    display: block;
+    padding: 13px 30px;
+    font-size: 14px;
+    background-color: #4460AA;
+    color: #fff;
+    border: none
+}
+form{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 28rem;
+}
+
+.formulario{
+    justify-content: center;
+    display: flex;
+
+}
